@@ -1,0 +1,7 @@
+# Raw Large Data Files
+*.csv
+*.xlsx
+
+# Power BI temporary files
+*.tmp
+*.pbix.backup
