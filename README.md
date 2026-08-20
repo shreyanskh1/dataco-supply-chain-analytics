@@ -32,6 +32,8 @@ An enterprise-grade, end-to-end Business Intelligence solution analyzing **180,5
 - **Fulfillment Failure Rate:** **54.83%** (Late Delivery Risk)
 - **Fraudulent Transaction Exposure:** $850K+ across high-risk payment channels
 
+* **Data Source:** [DataCo Supply Chain Dataset by Sai Charan Komati (Kaggle)](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
+
 ---
 
 <a id="pipeline-architecture"></a>
