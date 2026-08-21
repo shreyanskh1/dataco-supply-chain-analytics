@@ -197,7 +197,7 @@ The data model was normalized from a flat 53-column table into an optimized Star
 **Bash**
 
     # Clone the repository
-    git clone [https://github.com/yourusername/dataco-supply-chain-analytics.git](https://github.com/yourusername/dataco-supply-chain-analytics.git)
+    git clone [https://github.com/shreyanskh1/dataco-supply-chain-analytics.git](https://github.com/shreyanskh1/dataco-supply-chain-analytics.git)
 
     # Navigate to SQL scripts
     cd dataco-supply-chain-analytics/sql
